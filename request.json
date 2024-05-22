@@ -1,0 +1,119 @@
+[
+    {
+        "memory": 11,
+        "bandwidth": 11,
+        "cpu": 22,
+        "source": 28,
+        "destination": 29,
+        "vnfs_chain": [
+            1,
+            7
+        ]
+    },
+    {
+        "memory": 15,
+        "bandwidth": 32,
+        "cpu": 15,
+        "source": 25,
+        "destination": 94,
+        "vnfs_chain": [
+            2,
+            7,
+            6
+        ]
+    },
+    {
+        "memory": 13,
+        "bandwidth": 27,
+        "cpu": 16,
+        "source": 24,
+        "destination": 12,
+        "vnfs_chain": [
+            2,
+            6,
+            7
+        ]
+    },
+    {
+        "memory": 11,
+        "bandwidth": 22,
+        "cpu": 22,
+        "source": 88,
+        "destination": 76,
+        "vnfs_chain": [
+            1,
+            6
+        ]
+    },
+    {
+        "memory": 16,
+        "bandwidth": 25,
+        "cpu": 14,
+        "source": 79,
+        "destination": 101,
+        "vnfs_chain": [
+            1,
+            6
+        ]
+    },
+    {
+        "memory": 23,
+        "bandwidth": 18,
+        "cpu": 16,
+        "source": 43,
+        "destination": 88,
+        "vnfs_chain": [
+            1,
+            5
+        ]
+    },
+    {
+        "memory": 16,
+        "bandwidth": 22,
+        "cpu": 23,
+        "source": 38,
+        "destination": 0,
+        "vnfs_chain": [
+            1,
+            8
+        ]
+    },
+    {
+        "memory": 22,
+        "bandwidth": 18,
+        "cpu": 19,
+        "source": 84,
+        "destination": 82,
+        "vnfs_chain": [
+            3,
+            1,
+            9,
+            7
+        ]
+    },
+    {
+        "memory": 14,
+        "bandwidth": 11,
+        "cpu": 24,
+        "source": 22,
+        "destination": 94,
+        "vnfs_chain": [
+            2,
+            0,
+            4
+        ]
+    },
+    {
+        "memory": 12,
+        "bandwidth": 16,
+        "cpu": 17,
+        "source": 74,
+        "destination": 76,
+        "vnfs_chain": [
+            3,
+            1,
+            4,
+            6
+        ]
+    }
+]
